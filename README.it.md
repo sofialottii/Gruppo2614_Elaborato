@@ -49,3 +49,38 @@ Utilizza queste credenziali per verificare che il sistema **blocchi** il login a
 | **D004** | 44444 | Licenziato |
 | **D005** | 55555 | Licenziato |
 | **D006** | 66666 | Licenziato |
+
+### 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Home Screen</b><br>
+      <img src="screenshots/home.png" width="400">
+    </td>
+    <td align="center">
+      <b>Admin Dashboard</b><br>
+      <img src="screenshots/adminHome.png" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Customer Registration</b><br>
+      <img src="screenshots/iscrizioneCliente.png" width="400">
+    </td>
+    <td align="center">
+      <b>New Order</b><br>
+      <img src="screenshots/ordine.png" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Shift Management</b><br>
+      <img src="screenshots/turni.png" width="400">
+    </td>
+    <td align="center">
+      <b>Flavor Recipes (Doses)</b><br>
+      <img src="screenshots/dosiGusto.png" width="400">
+    </td>
+  </tr>
+</table>
