@@ -44,8 +44,45 @@ These accounts are active and grant access to the system.
 ### ❌ Terminated Employees (Access Denied Test)
 Use these credentials to verify that the system **blocks** login attempts for former employees.
 
+
 | Employee Code | Password | Notes |
 | :--- | :--- | :--- |
 | **D004** | 44444 | Terminated |
 | **D005** | 55555 | Terminated |
 | **D006** | 66666 | Terminated |
+
+
+### 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Home Screen</b><br>
+      <img src="screenshots/home.png" width="400">
+    </td>
+    <td align="center">
+      <b>Admin Dashboard</b><br>
+      <img src="screenshots/adminHome.png" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Customer Registration</b><br>
+      <img src="screenshots/iscrizioneCliente.png" width="400">
+    </td>
+    <td align="center">
+      <b>New Order</b><br>
+      <img src="screenshots/ordine.png" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Shift Management</b><br>
+      <img src="screenshots/turni.png" width="400">
+    </td>
+    <td align="center">
+      <b>Flavor Recipes (Doses)</b><br>
+      <img src="screenshots/dosiGusto.png" width="400">
+    </td>
+  </tr>
+</table>
