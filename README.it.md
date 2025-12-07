@@ -1,5 +1,10 @@
 # 🍦 Gestionale Gelateria
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![it](https://img.shields.io/badge/lang-it-green.svg)](README.it.md)
+
+*Read this in [English](README.md).*
+
 Questa applicazione permette la gestione del personale e delle operazioni della gelateria. Segui le istruzioni qui sotto per configurare il database e avviare il progetto.
 
 ## 🛠️ Configurazione e Avvio
